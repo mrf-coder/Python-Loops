@@ -60,6 +60,126 @@ main()
 
 
 ```
+```js
+students = ["Irfan","Ali","Ron","Jon"]
+
+for student in students:
+    print(student)
+```
+```js
+students = ["Irfan","Ali","Ron","Jon"]
+
+print(students[0])
+print(students[1])
+print(students[2])
+print(students[3])
+
+```
+```js
+students = ["Irfan","Ali","Ron","Jon"]
+
+for i in range(len(students)):
+    print(students[i])
+```
+```js
+students = ["Irfan","Ali","Ron","Jon"]
+
+for i in range(len(students)):
+    print(i+1,students[i])
+```
+```
+### List Print
+
+students={
+    "Ali":"B",
+    "Ron":"f",
+    "Jon":"A",
+    "Haris":"C"
+    
+}
+print(students["Ali"])
+print(students["Ron"])
+print(students["Jon"])
+print(students["Haris"])
+```
+```js
+
+students={
+    "Ali":"B",
+    "Ron":"f",
+    "Jon":"A",
+    "Haris":"C"
+    
+}
+
+for student in students:
+ print(student)
+
+```
+
+```js
+
+students={
+    "Ali":"B",
+    "Ron":"f",
+    "Jon":"A",
+    "Haris":"C"
+    
+}
+
+for student in students:
+ print(student,students[student])
+
+
+```
+```js
+
+
+students = [
+    {"name":"Ali","English":"51","Urdu":"73","Math":"51","Science":"71"},
+    {"name":"Ron","English":"43","Urdu":"40","Math":"33","Science":"63"},
+    {"name":"Jone","English":"4","Urdu":"41","Math":"55","Science":"51"},
+    {"name":"Harry","English":"41","Urdu":"64","Math":"77","Science":"37"},
+    {"name":"Aloha","English":"16","Urdu":"35","Math":"22","Science":"64"}
+]
+
+for student in students:
+    print(student["name"])
+
+
+```
+```js
+
+
+students = [
+    {"name":"Ali","English":"51","Urdu":"73","Math":"51","Science":"71"},
+    {"name":"Ron","English":"43","Urdu":"40","Math":"33","Science":"63"},
+    {"name":"Jone","English":"4","Urdu":"41","Math":"55","Science":"51"},
+    {"name":"Harry","English":"41","Urdu":"64","Math":"77","Science":"37"},
+    {"name":"Aloha","English":"16","Urdu":"35","Math":"22","Science":"64"}
+]
+
+for student in students:
+    print(student["name"],student["English"],student["Urdu"],student["Math"],student["Science"])
+```
+```js
+
+
+students = [
+    {"name":"Name","English":"English","Urdu":"Urdu","Math":"Math","Science":"Science" },
+
+    {"name":"Ali","English":"51","Urdu":"73","Math":"51","Science":"71"},
+    {"name":"Ron","English":"43","Urdu":"40","Math":"33","Science":"63"},
+    {"name":"Jone","English":"4","Urdu":"41","Math":"55","Science":"51"},
+    {"name":"Harry","English":"41","Urdu":"64","Math":"77","Science":"37"},
+    {"name":"Aloha","English":"16","Urdu":"35","Math":"22","Science":"64"}
+]
+
+for student in students:
+    print(student["name"],student["English"],student["Urdu"],student["Math"],student["Science"], sep=",     ")
+```
+
+
 
 
 
@@ -68,7 +188,7 @@ main()
 
 
 ```
-#### While loop: 
+### While loop: 
 Used to repeatedly execute a block of code as long as a condition is true.
 The loop continues until the condition becomes false. 
 ```
