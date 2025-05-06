@@ -206,3 +206,72 @@ while i !=0:
     print("Irfan")
     i = i - 1
 ```
+##### Built Game Block Column Height Width 
+```js
+
+
+def main():
+    print_colum(3)
+
+
+
+def print_colum(height):
+    for _ in range(height):
+        print("#") 
+
+main()           
+
+```
+
+```js
+print row
+
+def main():
+   print_row(4)
+
+
+
+def print_row(width):
+   print("#"  * width)   
+
+main()           
+
+```
+##### Print Squre 
+```js
+
+def main():
+    print_squre(5)
+
+def print_squre(size):
+
+    for i in range(size):
+
+        for j in range(size):
+            print("@", end="") 
+
+        print()     
+  
+main()           
+
+```
+```js
+
+def main():
+    print_squre(5)
+
+def print_squre(size):
+
+    for i in range(size):
+        print("#" * size)   
+  
+main()           
+
+```
+
+
+
+
+
+
+
