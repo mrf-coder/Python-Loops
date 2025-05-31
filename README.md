@@ -1,4 +1,15 @@
 # Python-Loops
+- __[Python-Conditionals](https://github.com/mrf-coder/Python-Conditionals.git)__ - 
+- __[Python-Loops](https://github.com/mrf-coder/Python-Loops.git)__ - 
+- __[Python-Eceptions ](https://github.com/mrf-coder/Python-Eceptions.git)__ - 
+- __[Python-Libraries ](https://github.com/mrf-coder/Python-Libraries.git)__ - 
+- __[Python-UnitTest ](https://github.com/mrf-coder/Python-UnitTest.git)__ - 
+- __[Python-I-o](https://github.com/mrf-coder/Python-I-o.git)__ - 
+- __[Regular-Expressions ](https://github.com/mrf-coder/Regular-Expressions.git)__ - 
+- __[Object-Oriented-Programming](https://github.com/mrf-coder/Object-Oriented-Programming.git)__ - 
+- __[Et-Cetera](https://github.com/mrf-coder/Et-Cetera.git)__ - 
+
+
 
 ```
 A loop in Python is a control flow statement that allows code to be executed repeatedly.
@@ -268,6 +279,16 @@ def print_squre(size):
 main()           
 
 ```
+
+- __[Python-Conditionals](https://github.com/mrf-coder/Python-Conditionals.git)__ - 
+- __[Python-Loops](https://github.com/mrf-coder/Python-Loops.git)__ - 
+- __[Python-Eceptions ](https://github.com/mrf-coder/Python-Eceptions.git)__ - 
+- __[Python-Libraries ](https://github.com/mrf-coder/Python-Libraries.git)__ - 
+- __[Python-UnitTest ](https://github.com/mrf-coder/Python-UnitTest.git)__ - 
+- __[Python-I-o](https://github.com/mrf-coder/Python-I-o.git)__ - 
+- __[Regular-Expressions ](https://github.com/mrf-coder/Regular-Expressions.git)__ - 
+- __[Object-Oriented-Programming](https://github.com/mrf-coder/Object-Oriented-Programming.git)__ - 
+- __[Et-Cetera](https://github.com/mrf-coder/Et-Cetera.git)__ - 
 
 
 
